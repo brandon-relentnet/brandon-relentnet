@@ -24,39 +24,57 @@ Currently shipping
 
 ### [myscrollr](https://github.com/brandon-relentnet/myscrollr)
 
-Pin live sports scores, crypto prices, and custom feeds over any tab. It is built for people who want ambient information without constantly switching contexts.
+> Ambient scores, crypto, and custom feeds without the alt-tab tax.
 
-**Stack and focus:** TypeScript, React, browser extensions, real-time data, product UX.
+**Type:** Product/business  
+**Status:** Active  
+**Stack:** TypeScript, React, browser extensions  
+**Focus:** Real-time data, useful overlays, product UX
 
 ### [RelentNet](https://github.com/brandon-relentnet/relentnet-v3)
 
-The active home for my white-glove web development studio. RelentNet is where I build polished websites and practical software for small businesses that need someone to own the details.
+> White-glove websites and practical software for small businesses.
 
-**Stack and focus:** TypeScript, web development, client strategy, polished delivery.
+**Type:** Studio/company site  
+**Status:** Active  
+**Stack:** TypeScript, modern web tooling  
+**Focus:** Client strategy, polished delivery, clear positioning
 
 ### [Habyra](https://github.com/brandon-relentnet/Habyra)
 
-Personal health management built around tailored tracking and daily wellness workflows.
+> Personal health tracking designed around real daily workflows.
 
-**Stack and focus:** Vue, health tracking, product design, personal systems.
+**Type:** Personal product  
+**Status:** Active/iterative  
+**Stack:** Vue, web app patterns  
+**Focus:** Wellness tracking, product design, personal systems
 
 ### [queueBot](https://github.com/brandon-relentnet/queueBot)
 
-A simple bot that accepts any type of League of Legends or Teamfight Tactics queue and sends you a notification when it is time to play.
+> Queue up for League or TFT, get notified when it is time to play.
 
-**Stack and focus:** Python, Discord workflows, gaming utilities, notifications.
+**Type:** Gaming utility bot  
+**Status:** Used by real people  
+**Stack:** Python, Discord workflows  
+**Focus:** Queue notifications, lightweight automation, gaming communities
 
 ### [nationcam](https://github.com/brandon-relentnet/nationcam)
 
-A camera-focused web app for sharing and viewing place-based live visuals.
+> Place-based live visuals in a clean, camera-first web app.
 
-**Stack and focus:** TypeScript, web apps, visual interfaces, Vercel.
+**Type:** Web app  
+**Status:** Public project  
+**Stack:** TypeScript, Vercel  
+**Focus:** Camera interfaces, visual browsing, location-based moments
 
 ### [skinbattle.lol](https://github.com/brandon-relentnet/skinbattle.lol)
 
-Head-to-head voting for League of Legends skins. Pick the better skin, settle the debate, repeat.
+> Pick the better League skin. Settle the debate. Repeat.
 
-**Stack and focus:** JavaScript, gaming, voting flows, lightweight product ideas.
+**Type:** Gaming web app  
+**Status:** Public project  
+**Stack:** JavaScript  
+**Focus:** Voting flows, playful UX, lightweight product ideas
 
 ## RelentNet Client Work
 
